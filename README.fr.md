@@ -85,7 +85,7 @@ Internationalisation complète : chinois, anglais, japonais, coréen, français,
 
 ### Mac App Store (Recommandé)
 
-[![Télécharger sur Mac App Store](https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83&releaseDate=20260512&downloadDate=20260512)](https://apps.apple.com/app/lumitext/id1234567890)
+[![Télécharger sur Mac App Store](https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83&releaseDate=20260512&downloadDate=20260512)](https://apps.apple.com/us/app/lumitext-ocr%E6%88%AA%E5%9B%BE%E8%AF%86%E5%88%AB%E4%B8%8E%E7%BF%BB%E8%AF%91/id6758448720?l=zh-Hans-CN&mt=12)
 
 > **Note :** Cherchez "LumiText" dans le Mac App Store ou cliquez sur le bouton ci-dessus pour télécharger directement.
 
